@@ -250,7 +250,7 @@ After you know these values, use them to run the `instance-create` command. In a
    ```
    {:screen}
 
-4. Request a floating IP address to associate to your instance.
+4. Request a floating IP address to associate to your instance. 
 
    ```
    $ ibmcloud is floating-ip-reserve \
@@ -274,7 +274,7 @@ After you know these values, use them to run the `instance-create` command. In a
     ```
     {:screen}
 
-    Remember the floating IP `Address` for later.  
+    Remember the floating IP address for later.  
 
 Need more help? You can always run `ibmcloud is help` when needed.
 {: tip}
